@@ -2,7 +2,7 @@
 
 **Affiliate Metrics Calculator**
 
-Online resource for affiliate marketing or general marketing professionals to quickly calculate the following: 
+Online resource for affiliate marketing and general marketing professionals to quickly calculate the following: 
 
 - ROI
 - CR

@@ -14,4 +14,4 @@ Online resource for affiliate marketing or general marketing professionals to qu
 - Percentage difference between two data periods
 - Predictive revenue for forecasting
 
-Calculations on the page hold true across all marketing disciplines, saving you time and accurately producing results
+Calculations on the page hold true across all marketing disciplines, saving you time in quickly and accurately producing your data results
